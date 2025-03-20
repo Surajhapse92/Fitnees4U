@@ -64,7 +64,7 @@ function Footer() {
     
                 <p>
           Copyright by <i className="fas fa-heart"></i>
-          <a href="https://suraj-hapse-porfolio.netlify.app/" target="_blank" rel="noopener noreferrer"> Surajhapse All rights reserved</a>
+          <a href="https://suraj-hapse-porfolio.netlify.app/" target="_blank" rel="noopener noreferrer"> SH All rights reserved</a>
         
         </p>
 </div>
