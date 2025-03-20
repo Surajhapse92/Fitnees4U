@@ -1,0 +1,23 @@
+.t-search{
+  width: 500px;
+}
+.w{
+  font-size: 30px;
+  padding-right: 20px;
+  cursor: pointer;
+ } 
+ .w:hover{
+  scale: 1.2;
+ }
+ 
+.sc::-webkit-scrollbar-thumb {
+  background: black;
+}
+
+.sc::-webkit-scrollbar {
+  width: 2px;
+}
+
+.sc::-webkit-scrollbar-track {
+  background-color: #9e9e9eb2;
+}
